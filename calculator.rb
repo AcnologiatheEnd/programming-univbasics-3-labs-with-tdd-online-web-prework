@@ -1,2 +1,3 @@
 # Add your variables here
-first_number= "drop top"
+first_number= 2
+second_number= 0
